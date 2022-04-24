@@ -54,3 +54,9 @@ dkms.conf
 
 # Compiled binaries
 cpmRun
+
+# Project report PDF
+project_4_mtm0002.pdf
+
+# tar of project to turn in
+project_4_mtm0002.tar.gz
